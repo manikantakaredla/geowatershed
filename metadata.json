@@ -1,0 +1,6 @@
+{
+  "name": "WATERSCOPE - Watershed Intelligence & Evidence Platform",
+  "description": "Production-grade GIS and remote-sensing watershed intelligence platform linking geo-coded field evidence with satellite observations, temporal change detection, and verification workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
